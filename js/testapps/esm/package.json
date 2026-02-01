@@ -27,7 +27,7 @@
     "@genkit-ai/googleai": "workspace:*",
     "@genkit-ai/next": "workspace:^",
     "@genkit-ai/vertexai": "workspace:*",
-    "firebase-admin": ">=12.2",
+    "firebase-admin": ">=13.0.0",
     "genkit": "workspace:*",
     "genkitx-chromadb": "workspace:*",
     "genkitx-ollama": "workspace:*",
